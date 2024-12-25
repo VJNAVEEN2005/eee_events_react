@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eee_events_react/static/css/main.81695856.css",
+    "main.js": "/eee_events_react/static/js/main.2b3174ea.js",
+    "static/js/488.13c009b8.chunk.js": "/eee_events_react/static/js/488.13c009b8.chunk.js",
+    "static/media/PTU_Logo-color.png": "/eee_events_react/static/media/PTU_Logo-color.cbf71f84879f5ffb9bb6.png",
+    "static/media/building.jpg": "/eee_events_react/static/media/building.56b3b3d4c4cd1901e06d.jpg",
+    "static/media/say-no-ragging.png": "/eee_events_react/static/media/say-no-ragging.c091bf51a91374ee5e38.png",
+    "static/media/EEE_HOD.jpg": "/eee_events_react/static/media/EEE_HOD.a11fe2447f9a6438d433.a11fe2447f9a6438d433.jpg",
+    "index.html": "/eee_events_react/index.html",
+    "main.81695856.css.map": "/eee_events_react/static/css/main.81695856.css.map",
+    "main.2b3174ea.js.map": "/eee_events_react/static/js/main.2b3174ea.js.map",
+    "488.13c009b8.chunk.js.map": "/eee_events_react/static/js/488.13c009b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81695856.css",
+    "static/js/main.2b3174ea.js"
+  ]
+}

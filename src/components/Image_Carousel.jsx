@@ -12,7 +12,7 @@ function Image_Carousel(props) {
       }, 3000); // Change slide every 3 seconds
   
       return () => clearInterval(interval); // Cleanup on unmount
-    }, []);
+    }, [currentIndex]);
   
     const prevSlide = () => {
       setCurrentIndex((prev) => (prev === 0 ? props.images.length - 1 : prev - 1));
@@ -34,7 +34,7 @@ function Image_Carousel(props) {
             <img
               src={image}
               alt={`Slide ${index + 1}`}
-              className="w-full h-64 md:h-96 object-contain"
+              className="w-full h-64 md:h-96 object-cover"
             />
           </div>
         ))}

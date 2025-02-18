@@ -1,0 +1,17 @@
+import tti1 from './events/tt1/tti1.png'
+import tti2 from './events/tt1/tti2.png'
+import tti3 from './events/tt1/tti3.png'
+import tti4 from './events/tt1/tti4.png'
+import tti5 from './events/tt1/tti5.png'
+import tt1 from './events/tt2/tt1.jpg'
+import tt2 from './events/tt2/tt2.jpg'
+import tt3 from './events/tt2/tt3.jpg'
+import tt4 from './events/tt2/tt4.jpg'
+import tt5 from './events/tt2/tt5.jpg'
+import wsd1 from './events/wsd/wsd1.png'
+import wsd2 from './events/wsd/wsd2.png'
+import wsd3 from './events/wsd/wsd3.png'
+import wsd4 from './events/wsd/wsd4.png'
+import wsd5 from './events/wsd/wsd5.png'
+
+export {tti1, tti2, tti3, tti4, tti5, tt1, tt2, tt3, tt4, tt5, wsd1, wsd2, wsd3, wsd4, wsd5}

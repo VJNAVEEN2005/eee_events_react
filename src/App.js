@@ -10,8 +10,6 @@ import { data } from './data/data';
 
 function App() {
 
-  console.log(data[0].images)
-
   return (
     <>
       <Header/>
